@@ -1,0 +1,10 @@
+[2022-08-12 17:44:05] [info]  [20076] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-08-12 17:44:05] [info]  [20076] Deleting service...
+[2022-08-12 17:44:05] [error] [20076] 指定的服务未安装。
+[2022-08-12 17:44:05] [info]  [20076] Delete service finished.
+[2022-08-12 17:44:05] [error] [20076] Apache Commons Daemon procrun failed with exit value: 9 (failed to delete service).
+[2022-08-12 17:44:05] [error] [20076] 指定的服务未安装。
+[2022-08-12 17:44:18] [info]  [20788] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-08-12 17:44:18] [info]  [20788] Installing service 'Tomcat9' name 'Apache Tomcat 9.0 Tomcat9'.
+[2022-08-12 17:44:18] [info]  [20788] Service 'Tomcat9' installed.
+[2022-08-12 17:44:18] [info]  [20788] Apache Commons Daemon procrun finished.

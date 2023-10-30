@@ -1,0 +1,6 @@
+[2022-08-13 17:40:03] [info]  [30752] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-08-13 17:40:03] [info]  [30752] Debugging 'tomcat9' service...
+[2022-08-13 17:40:03] [info]  [30752] Starting service...
+[2022-08-13 17:40:04] [info]  [30752] Service started in 1230 milliseconds.
+[2022-08-13 17:40:10] [info]  [30752] Debug service finished with exit code 0.
+[2022-08-13 17:40:10] [info]  [30752] Apache Commons Daemon procrun finished.
